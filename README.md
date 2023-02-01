@@ -2,4 +2,4 @@
 
 ## Introdução
 
-Aqui encontraremos os meus projetos básicos e inciais que foram desenvolvidos e criados para me ensinar e auxiliar quando necessário.
+Aqui encontraremos os meus projetos básicos e inciais que foram desenvolvidos e que me ensinaram o básico.
